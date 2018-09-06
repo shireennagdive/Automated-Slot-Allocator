@@ -1,0 +1,61 @@
+subject2.txt
+This file contains the DC and DE subjects of B.tech second year.The format is DC subjects listed under the word "DC";followed by a blank line and then DE subjects followed under the word "DE".It should be noted that no extra space is to left after the word "DC/DE" and after the subject names.
+
+subject3.txt
+This file contains the DC and DE subjects of B.tech third year.Rest explaination is same as for second year.
+
+
+subject4.txt
+This file contains the DC and DE subjects of B.tech final year.Rest explaination is same as for second year.
+
+
+mtech1.txt
+This file contains the DC and DE subjects of M.tech first year.Rest explaination is same as for second year.
+
+
+mtech2.txt
+This file contains the DC and DE subjects of M.tech second year.Rest explaination is same as for second year.
+
+backlog_sub.txt
+This file contains the subjects followed by their year number(5 for Mtech first year and 6 for M.tech second year) which have higher probability of retaining backloggers.Format is:
+year_number
+subject1
+subject2
+...
+
+year_number
+subject1
+subject2
+...
+
+It should be noted that no extra space is to left after the year number and the subject name.
+
+CP_Prof_List.txt
+This file lists all the professors in the CSE department who teach Computer Programming in First Year.It should be noted that no extra space is to left after the professor name.
+
+cp_sec_slots.txt
+This file contains the slot alloted to the respective section in First Year.Format is Section Name followed by Slot Name and then a blank line followed by the next section name and then the Slot Name and so on.It should be noted that no extra space is to left after the slot name and the section name.
+
+mix_file.txt
+This file lists the subjects which are common in both B.Tech Final Years and M.techs(First or Second Years).Format is subject name followed by the number 5 or 6 where 5 means M.Tech first year and 6 means M.tech second year;followed by a blank line and then followed by the next subject name and so on..It should be noted that no extra space is to left after the subject name and the year number(5 or 6).
+
+prof_pref2.txt
+This file lists the preferences given by the professors for their respective subjects in B.Tech second year.Format is Professor Name followed by subject Name followed by their preffered slot followed by a blank line and same format repeated again.It should be noted that no extra space is to left after the subject /professor/slot name.
+
+prof_pref3.txt
+This file lists the preferences given by the professors for their respective subjects in B.Tech third year.Rest is same as mentioned for second year.
+
+prof_pref4.txt
+This file lists the preferences given by the professors for their respective subjects in B.Tech  fourth year.Rest is same as mentioned for second year.
+
+prof_pref_mtech1.txt
+This file lists the preferences given by the professors for their respective subjects in M.Tech first year.Rest is same as mentioned for B.Tech second year.
+
+prof_pref_mtech2.txt
+This file lists the preferences given by the professors for their respective subjects in M.Tech second year.Rest is same as mentioned for B.Tech second year.
+
+prof_subjectlist.txt
+This file lists the subjects taught by each professor in the respective years.Format is "**" in the beginning;followed by professor name;followed by the total number of subjects taught by the professor in that respective semester;followed by the subject name;followed by the year in which the subject belongs;followed by a blank line;then the next subject which the professor teaches;followed by its year number and so on..After all the subjects and their years under one professor are written;leave a blank space;followed by "**" and details of the next professor in the same format.slot followed by a blank line and same format repeated again.It should be noted that no extra space is to left after any of the lines.
+
+prof_name.txt
+This file lists the names of the professors in the descending order of priority.slot followed by a blank line and same format repeated again.It should be noted that no extra space is to left after the professor names.
